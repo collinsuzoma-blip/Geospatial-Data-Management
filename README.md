@@ -5,6 +5,9 @@ This project demonstrates enterprise geodatabase design and spatial data managem
 
 The goal was to build a structured geospatial database capable of managing large marine datasets while maintaining spatial integrity and enabling multi-user access.
 
+<img width="516" height="355" alt="result" src="https://github.com/user-attachments/assets/29e0b353-cb57-4e47-ba41-dc969961c409" />
+
+
 ## Objectives
 - Design an enterprise geodatabase schema
 - Organize hydrographic datasets into feature datasets
